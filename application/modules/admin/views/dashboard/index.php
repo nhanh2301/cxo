@@ -1,1 +1,1 @@
-dashboard_index
+dashboard_index hình ảnh đẹp

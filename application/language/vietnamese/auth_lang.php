@@ -20,7 +20,7 @@ $lang['error_csrf'] = 'Có lỗi xảy ra trong quá trình đăng nhập.';
 // Login
 $lang['login_heading']         = 'Đăng nhập';
 $lang['login_subheading']      = 'Đăng nhập bằng email.';
-$lang['login_identity_label']  = 'Email';
+$lang['login_identity_label']  = 'Tài khoản';
 $lang['login_password_label']  = 'Mật khẩu';
 $lang['login_remember_label']  = 'Nhớ mật khẩu';
 $lang['login_submit_btn']      = 'Đăng nhập';
